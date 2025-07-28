@@ -1,6 +1,6 @@
 # Finbot LLM
 
-A Large Language Model (LLM)-based solution for enhancing customer service in a financial environment.
+A Large Language Model (LLM)-based solution for enhancing customer service in a financial environment...
 
 ## Project Overview
 
